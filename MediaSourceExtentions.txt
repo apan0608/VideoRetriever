@@ -1,0 +1,5 @@
+After HTML5 is introduced, browsers impldments Media Source Extensions to complex uses cases of Video.
+The MediaSource object is the source of the video's data.
+In the HTML5 video tag, under its source attribute, we are adding a link to the MediaSource obkect. 
+
+The MediaSource is not a URL but a JavaScript object. 
